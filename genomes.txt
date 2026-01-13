@@ -1,0 +1,10 @@
+genome SIRVS
+trackDb SIRVS/trackDb.txt
+groups SIRVS/groups.txt
+twoBitPath SIRVS/SIRVS.2bit
+organism user-defined
+description user-defined
+scientificName user-defined
+orderKey 4800
+htmlPath SIRVS/SIRVS_description.html
+defaultPos SIRV7:1-5000

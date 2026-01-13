@@ -1,0 +1,6 @@
+hub sirv_hub_SIRVS_SQANTI3_Hub
+shortLabel sirv_hub_SIRVS_SQANTI3_Hub
+longLabel SQANTI3 Transcriptome Analysis for SIRVS
+genomesFile genomes.txt
+email sqanti3_user@users.noreply.github.com
+descriptionUrl README.md
