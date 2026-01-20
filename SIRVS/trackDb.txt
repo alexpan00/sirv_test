@@ -150,6 +150,17 @@ html SIRVS_sqanti3_track.html
 searchIndex name
 searchTrix trix.ix
 
+track SIRVS_reference
+bigDataUrl SIRVS_reference.bb
+shortLabel Reference
+longLabel Reference Genome Annotation
+type bigBed 12
+visibility pack
+group validation
+priority 5
+color 70,70,70
+html SIRVS_reference_track.html
+
 track SIRVS_sqanti3_incomplete-splice_match
 bigDataUrl SIRVS_sqanti3_incomplete-splice_match.bb
 shortLabel SQANTI3 incomplete-splice_match

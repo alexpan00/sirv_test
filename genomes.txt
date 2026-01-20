@@ -6,5 +6,5 @@ organism user-defined
 description user-defined
 scientificName user-defined
 orderKey 4800
-htmlPath SIRVS/SIRVS_description.html
+htmlPath SIRVS/SIRVS_genome.html
 defaultPos SIRV7:1-5000
